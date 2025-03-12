@@ -86,13 +86,13 @@
     <div class="container">
         <form id="form1" runat="server">
             <div class="form-group">
-                <label for="txtPartner1">Partner 1 (Full Name):</label>
-                <asp:TextBox ID="txtPartner1" runat="server" required></asp:TextBox>
+                <label for="txtBride">Bride (Full Name):</label>
+                <asp:TextBox ID="txtBride" runat="server" required></asp:TextBox>
             </div>
 
             <div class="form-group">
-                <label for="txtPartner2">Partner 2 (Full Name):</label>
-                <asp:TextBox ID="txtPartner2" runat="server" required></asp:TextBox>
+                <label for="txtGroom">Groom (Full Name):</label>
+                <asp:TextBox ID="txtGroom" runat="server" required></asp:TextBox>
             </div>
 
             <div class="form-group">
